@@ -99,11 +99,6 @@ Day-02[07-11-2023]:
 		- pip install jupyter notebook
 	> To run python files in jupyter notebook first we need to install jupyter or else we can install anaconda software or vscode or pycharm. In anaconda it exists some python library and packages related to it. In pycharm and vscode the extension will be accessed
 	> Jupyter notebook will be installed by using pip command
-
-	Jupyter Notebook:
-	=================
-	> To run python files in jupyter notebook first we need to install jupyter or else we can install anaconda software or vscode or pycharm. In anaconda it exists some python library and packages related to it. In pycharm and vscode the extension will be accessed
-	> Jupyter notebook will be installed by using pip command
 	
 	Jupyter notebook running:
 	=========================
