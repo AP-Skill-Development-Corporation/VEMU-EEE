@@ -5,4 +5,4 @@ Python Basics for 2nd years
   - Python Version Check
   - IDLE Execution ways
   - Jupyter Notebook Overview,running of it,Markdown Format with sample example on it
-  - Python Basics like Varialbes,Assignment of Variables,Data types and type with sample example on each 
+  - Python Basics like Variables,Assignment of Variables,Data types and type with sample example on each 
