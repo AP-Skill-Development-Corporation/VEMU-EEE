@@ -12,3 +12,9 @@ Python Basics for 2nd years
   - Python Program execution ways (Basic,Advanced Editor)
   - Pip Overview,Version check,Installation of Other Packages by using pip
   - Jupyter Notebook Installation,Markdown Format with sample examples on it
+
+## Day-03[09-11-2023]:
+  - Markdown Format with sample examples on it
+  - Keywords,Operators with sample example on it
+  - Input,output formatting and typecasting with sample example on it
+  - Conditional statements overview and sample examples on if
